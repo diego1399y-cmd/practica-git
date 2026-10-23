@@ -1,1 +1,1 @@
-# practica-git
+Repositorio de practica del curso PROYECTO 1 
